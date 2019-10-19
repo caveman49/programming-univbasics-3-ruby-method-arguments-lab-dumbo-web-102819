@@ -1,7 +1,9 @@
 name = "Eric"
 puts "Hi, my name is #{name}."
 
-
+name = "Eric"
+language = "Ruby"
+puts "Hi, my name is #{name} and I am learning to program in #{language}."
 
 
 
